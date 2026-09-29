@@ -9,6 +9,7 @@
     box-shadow: 0 0 10px 2px #333333;
     margin: 40px auto;
 }
+
 .my-list p {
     text-align: center;
 }
@@ -19,4 +20,8 @@
 
 .my-list li:hover {
     color: #b30000;
+}
+
+.my-list h1 {
+    text-shadow: 2px 2px 4px #999999;
 }
