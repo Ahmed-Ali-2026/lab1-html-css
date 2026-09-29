@@ -16,3 +16,7 @@
 .my-list ol {
     margin: 12px;
 }
+
+.my-list li:hover {
+    color: #b30000;
+}
